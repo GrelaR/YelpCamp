@@ -1,3 +1,3 @@
 ## Notas:
 
-Creación de CRUD para projecto de YelpCamp. Utilizando Express, Mongo y Mongoose.
+Creación de CRUD para projecto de YelpCamp. Utilizando JavaSript, Express, Mongo, Mongoose, HTML y CSS.
